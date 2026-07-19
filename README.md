@@ -23,7 +23,27 @@ Sales by Outlet Size & Location: Tier 1/2/3 breakdown
 Outlet Type Table: Total Sales, Avg Sales, Avg Rating, Item Visibility by outlet type
 
 
-## 
+## Sales Performance Dashboard
+
+Power BI dashboard analyzing U.S. sales performance by segment, category, region, and time.
+
+Key Metrics
+
+
+Sum of Sales: 2.30M
+Sum of Profit: 286K
+Sum of Discount: 1.56K
+Sum of Quantity: 38K
+
+
+Features
+
+
+Sales by Segment: Consumer, Corporate, Home Office breakdown
+Sales Trend: Year, quarter, month, and day view (2019–2021)
+Sub-Category Funnel: Sales ranked from Phones down to Fasteners
+State Map: Sales distribution across U.S. locations
+Regional Sales: West, East, Central, South breakdown
 
 
 Tools
